@@ -1,7 +1,7 @@
 # Colin Janisse
 
 Electrical Engineering Student at the University of Windsor  
-High Voltage Electric Powertrain Co-Lead — Windsor FSAE Electric (Team 20)
+High Voltage Electric Powertrain Co-Lead — Windsor FSAE Electric
 
 ---
 
