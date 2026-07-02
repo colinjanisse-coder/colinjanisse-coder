@@ -47,7 +47,7 @@ Looking for roles in EV powertrain engineering, power electronics, or embedded m
 
 ---
 
-## FSAE Electric — Team 20
+## FSAE HV Electric Powertrain
 
 | Component | Details |
 |---|---|
